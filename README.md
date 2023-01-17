@@ -1,7 +1,7 @@
 # Alura Voz
 
 # Introdução
-Bem-vindo ao projeto de portfólio de Data Science "Alura Voz"! Este projeto foi criado com o objetivo de demonstrar minhas habilidades e conhecimentos na área de limpeza, análise e modelagem de dados. O projeto é dividido em três etapas, cada uma delas representando uma fase importante no processo de desenvolvimento de projetos de Data Science, e os arquivos estão separados em pastas específicas: "Limpeza de dados", "Analise de dados" e "Modelagem".
+Bem-vindo ao projeto de portfólio de Data Science "Alura Voz"! Este projeto foi criado com o objetivo de demonstrar minhas habilidades e conhecimentos na área de limpeza, análise e modelagem de dados. O projeto é dividido em três etapas, cada uma delas representando uma fase importante no processo de desenvolvimento de projetos de Data Science, e os arquivos estão separados em pastas específicas: "Limpeza e Tratamento dos Dados", "Análise dos dados" e "Modelo de Machine Learning".
 
 
 # Etapas
