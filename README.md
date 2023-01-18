@@ -42,6 +42,7 @@ Por outro lado, é importante observar a relação entre o gasto total dos clien
 ## Criação do modelo de machine learning
 Nesta etapa, um modelo de machine learning é criado com base nos insights obtidos na etapa anterior de análise de dados. Isso inclui a seleção de algoritmos adequados, treinamento e avaliação do modelo para garantir sua precisão e capacidade de generalização.
 
+Os algoritmos utilizados foram:
 
 
 |Nome completo do modelo | Abreviação|
@@ -51,3 +52,10 @@ Nesta etapa, um modelo de machine learning é criado com base nos insights obtid
 |Decision Tree	         | dtree     |
 |Random Forest	         | rforest   |
 |Naive Bayes	           | bnb       |
+
+
+Com base nos resultados obtidos ao avaliar diferentes modelos, é possível afirmar que o modelo K-Nearest Neighbors (KNN) se destaca como a melhor opção para prever o comportamento de cancelamento de clientes da "Alura Voz". Como mostra na tabela apresentada, o KNN obteve os melhores resultados em quase todas as métricas avaliadas, superando os demais modelos e se mostrando como a escolha mais adequada para atender as necessidades da empresa.
+
+Com isso, o KNN é capaz de prever com maior precisão os clientes que têm tendência a cancelar o serviço, o que é importante para a empresa "Alura Voz" que fornece serviços de telefonia e internet. Além disso, o modelo KNN é conhecido por ser um dos algoritmos mais simples e fáceis de entender, o que facilita a interpretação dos resultados obtidos e a implementação de medidas para melhorar a retenção de clientes.
+
+Portanto, levando em consideração esses resultados e as necessidades da empresa "Alura Voz", o KNN é o modelo escolhido como o melhor para prever o comportamento de cancelamento de clientes.
