@@ -45,15 +45,34 @@ Nesta etapa, um modelo de machine learning é criado com base nos insights obtid
 Os algoritmos utilizados foram:
 
 
-|Nome completo do modelo | Abreviação|
-|------------------------|-----------|
-|K-Nearest Neighbors	   | knn       |
-|Support Vector Machine	 | svc       |
-|Decision Tree	         | dtree     |
-|Random Forest	         | rforest   |
-|Naive Bayes	           | bnb       |
+<table align="center">
+  <tr>
+    <th>Nome completo do modelo</th>
+    <th>Abreviação</th>
+  </tr>
+  <tr>
+    <td>K-Nearest Neighbors</td>
+    <td>knn</td>
+  </tr>
+  <tr>
+    <td>Support Vector Machine</td>
+    <td>svc</td>
+  </tr>
+  <tr>
+    <td>Decision Tree</td>
+    <td>dtree</td>
+  </tr>
+  <tr>
+    <td>Random Forest</td>
+    <td>rforest</td>
+  </tr>
+    <td>Naive Bayes</td>
+    <td>bnb</td>
+  </tr>
+</table>  
+    
 
-
+</table>
 Com base nos resultados obtidos ao avaliar diferentes modelos, é possível afirmar que o modelo K-Nearest Neighbors (KNN) se destaca como a melhor opção para prever o comportamento de cancelamento de clientes da "Alura Voz". Como mostra na tabela apresentada, o KNN obteve os melhores resultados em quase todas as métricas avaliadas, superando os demais modelos e se mostrando como a escolha mais adequada para atender as necessidades da empresa.
 
 Com isso, o KNN é capaz de prever com maior precisão os clientes que têm tendência a cancelar o serviço, o que é importante para a empresa "Alura Voz" que fornece serviços de telefonia e internet. Além disso, o modelo KNN é conhecido por ser um dos algoritmos mais simples e fáceis de entender, o que facilita a interpretação dos resultados obtidos e a implementação de medidas para melhorar a retenção de clientes.
