@@ -3,28 +3,26 @@
 </p>
 
 # Introdução
-Bem-vindo ao projeto de portfólio de Data Science "Alura Voz"! Este projeto foi criado visando demonstrar minhas habilidades e conhecimentos na área de limpeza, análise e modelagem de dados. O projeto é dividido em três etapas: limpeza dos dados, análise dos dados e criação de um modelo de machine learning. Os arquivos estão separados em pastas específicas para cada etapa.
+Bem-vindo ao projeto de portfólio de Data Science "Alura Voz"! Este projeto foi criado com o objetivo de demonstrar minhas habilidades e conhecimentos na área de limpeza, análise e modelagem de dados. O projeto é dividido em três etapas: limpeza dos dados, análise dos dados e criação de um modelo de machine learning. Os arquivos estão organizados em pastas específicas para cada etapa.
 
 # Etapas
 ## Limpeza dos dados
-Nesta etapa, os dados são coletados, limpos e preparados para a análise. Isso inclui a remoção de valores faltantes, a correção de dados incorretos e a formatação dos dados para facilitar a análise.
-Nesta etapa foram encontradas inconsistências como informações em branco na variável alvo, assim em como em algumas outras variáveis. E somente então essas correções, foi possível exportar o jupyter notebook para só assim fazer uma análise melhor dos dados.
+Nesta etapa, os dados são coletados, limpos e preparados para a análise. Isso inclui a remoção de valores faltantes, a correção de dados incorretos e a formatação dos dados para facilitar a análise. Durante esta etapa foram encontradas inconsistências, como informações em branco na variável alvo, bem como em algumas outras variáveis. Somente após essas correções, foi possível exportar o Jupyter notebook para fazer uma análise mais precisa dos dados.
 
 ## Análise dos dados
-Nesta etapa, os dados limpos são analisados para obter insights e compreender a relação entre as variáveis. Isso inclui a utilização de técnicas estatísticas e visualização de dados para identificar padrões e tendências.
-Foi nessa etapa possível observado que 1869 clientes, sou seja, aproximadamente **26,54%** de todos os clientes observados nesse estudo. Uma taxa relativamente alta.
+Nesta etapa, os dados limpos são analisados para obter insights e compreender a relação entre as variáveis. Isso inclui a utilização de técnicas estatísticas e visualização de dados para identificar padrões e tendências. Durante esta etapa foi possível observar que 1869 clientes, ou seja, aproximadamente **26,54%** de todos os clientes observados neste estudo, representam uma taxa relativamente alta.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndersonAyache/AluraVoz/main/IMG/cancalamento_total.png">
 </p>
 
-Também nesta etapa, foi observação a relação entre o tipo de **serviço de internet** e a tendência de cancelamento. Os clientes que usam essa a fibra óptica tem uma tendência maior de cancelar do que os clientes que utilizavam DSL ou aqueles que não possuíam internet. E ao olharmos para o **serviço de telefone**, a tendência de cancelamento de quem usa o serviço e de aproximadamente 10 vezes maior dos clientes que não usam.
+Também nesta etapa, foi observada a relação entre o tipo de serviço de internet e a tendência de cancelamento. Os clientes que usam fibra óptica têm uma tendência maior de cancelar do que os clientes que utilizam DSL ou aqueles que não possuem internet. Além disso, ao analisarmos o serviço de telefone, foi observado que a tendência de cancelamento dos clientes que usam o serviço é aproximadamente 10 vezes maior do que a dos clientes que não usam.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndersonAyache/AluraVoz/main/IMG/cancalamento_serico_telefonico.png">
 </p>
 
-Outra análise importante a ser feita e a relação entre o uso de StreamingTV e StreamingMovies e a tendência de cancelamento, onde foi observado que esses serviços têm uma taxa de cancelamento acima de 40%. No entanto, não foi observada diferença significativa no cancelamento entre homens e mulheres, nem que os idosos cancelam mais. Além disso, foi possível ver que pessoas, com cônjuge ou dependentes têm uma tendência menor a cancelar. Por último, mas não menos importante, foi observado que os clientes novos têm um alto índice de cancelamento e principalmente aqueles que têm gastos elevados.
+Outra análise importante realizada foi a relação entre o uso de StreamingTV e StreamingMovies e a tendência de cancelamento, onde foi observado que esses serviços têm uma taxa de cancelamento acima de 40%. No entanto, não foi observada diferença significativa no cancelamento entre homens e mulheres, nem que os idosos cancelem mais frequentemente. Além disso, foi possível ver que as pessoas com cônjuge ou dependentes têm uma tendência menor de cancelar. Por último, mas não menos importante, foi observado que os clientes novos têm um alto índice de cancelamento, especialmente aqueles que têm gastos elevados.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndersonAyache/AluraVoz/main/IMG/tabela_de_servicos.png">
