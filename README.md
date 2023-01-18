@@ -44,4 +44,10 @@ Nesta etapa, um modelo de machine learning é criado com base nos insights obtid
 
 
 
-
+|Nome completo do modelo | Abreviação|
+|------------------------|-----------|
+|K-Nearest Neighbors	   |    knn    |
+|Support Vector Machine	 |    svc    |
+|Decision Tree	         |           |
+|Random Forest	         |           |
+|Naive Bayes	           |           |
