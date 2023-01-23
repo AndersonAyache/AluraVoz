@@ -24,10 +24,10 @@ O programa de desafios, da Alura, é uma oportunidade para colocar em prática o
 
 # Etapas
 ## Limpeza dos dados
-Nesta etapa, os dados são coletados, limpos e preparados para a análise. Isso inclui a remoção de valores faltantes, a correção de dados incorretos e a formatação dos dados para facilitar a análise. Durante esta etapa foram encontradas inconsistências, como informações em branco na variável alvo, bem como em algumas outras variáveis. Somente após essas correções, foi possível exportar o Jupyter notebook para fazer uma análise mais precisa dos dados.
+A etapa de limpeza e preparação dos dados é crucial para garantir que as informações analisadas sejam precisas e confiáveis. Durante essa etapa, foram realizadas ações como remoção de valores faltantes, correção de dados incorretos e formatação dos dados para facilitar a análise. Essas ações garantem que a equipe de vendas esteja trabalhando com informações precisas, o que é fundamental para tomar decisões estratégicas e alcançar os objetivos da empresa. Além disso, ao remover dados inconsistentes ou incorretos, a equipe de vendas pode se concentrar nas informações mais relevantes e importantes para suas decisões, o que aumenta a eficiência e a eficácia de suas ações.
 
 ## Análise dos dados
-Nesta etapa, os dados limpos são analisados para obter insights e compreender a relação entre as variáveis. Isso inclui a utilização de técnicas estatísticas e visualização de dados para identificar padrões e tendências. Durante esta etapa foi possível observar que 1869 clientes, ou seja, aproximadamente **26,54%** de todos os clientes observados neste estudo, representam uma taxa relativamente alta.
+Após a limpeza dos dados, realizar uma análise destes dados é crucial para entender as tendências e padrões existentes e, assim, obter insights valiosos para ajudar a equipe de vendas a enquadrar novos clientes em planos que terão maiores chances de permanência. Foram utilizadas técnicas estatísticas e visualizações de dados para identificar as relações entre as variáveis e compreender as tendências do mercado. Como resultado, foi possível observar que 1869 clientes, ou seja, aproximadamente **26,54%** de todos os clientes observados neste estudo, efetuaram o cancelamento, o que representa uma taxa relativamente alta.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndersonAyache/AluraVoz/main/IMG/cancalamento_total.png">
